@@ -1,9 +1,0 @@
----
-name: PlayerAuths
-main: fr\redtv\playerauth\PlayerAuthMain
-version: Build#v1
-api: [5.0.0]
-load: POSTWORLD
-depend: ["Updater"]
-author: RedTv
-...
